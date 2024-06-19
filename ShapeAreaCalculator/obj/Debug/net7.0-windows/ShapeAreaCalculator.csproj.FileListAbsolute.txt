@@ -1,0 +1,11 @@
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\bin\Debug\net7.0-windows\ShapeAreaCalculator.deps.json
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\bin\Debug\net7.0-windows\ShapeAreaCalculator.dll
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\bin\Debug\net7.0-windows\ShapeAreaCalculator.pdb
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.AssemblyInfoInputs.cache
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.AssemblyInfo.cs
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.dll
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\refint\ShapeAreaCalculator.dll
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ShapeAreaCalculator.pdb
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\net7.0-windows\ref\ShapeAreaCalculator.dll
