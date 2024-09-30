@@ -1,0 +1,5 @@
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\netcoreapp2.0\ShapeAreaCalculator.csproj.AssemblyReference.cache
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\netcoreapp2.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\netcoreapp2.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\netcoreapp2.0\ShapeAreaCalculator.AssemblyInfo.cs
+E:\Git\MindBoxTest\ConsoleApp1\ShapeAreaCalculator\obj\Debug\netcoreapp2.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache

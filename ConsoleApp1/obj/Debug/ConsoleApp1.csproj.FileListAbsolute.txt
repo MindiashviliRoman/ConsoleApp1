@@ -1,0 +1,10 @@
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\bin\Debug\ShapeAreaCalculator.dll
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\bin\Debug\ShapeAreaCalculator.pdb
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Git\MindBoxTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
